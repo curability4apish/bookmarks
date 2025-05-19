@@ -13,3 +13,8 @@ https://www.youtube.com/watch?v=Dk1RSryy5Ls
 ## Windows
 Configure and Install Office 2019/2021/O365 Apps with ODT | Step-by-Step Guide<br/>
 https://www.youtube.com/watch?v=ulnaN6fBtM8
+
+---
+## Android
+Installing helper on Android 14+ (old thread) | MacroDroid Forum<br/>
+http://www.macrodroidforum.com/index.php?threads/installing-helper-on-android-14-old-thread.5606/
