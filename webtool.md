@@ -1,4 +1,4 @@
-\,
+\
 Chrome Bookmarks Recovery Tool<br/>
 https://rongjiecomputer.github.io/chrome/bookmark-recovery/#windows
 
