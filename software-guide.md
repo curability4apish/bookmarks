@@ -22,5 +22,7 @@ https://gist.github.com/Aldaviva/0eb62993639da319dc456cc01efa3fe5
 
 ---
 ## Android
+[This will change EVERYTHING - Samsung Good Lock - YouTube<br/>](https://www.youtube.com/watch?v=MCjiGJL8PBE)
 Installing helper on Android 14+ (old thread) | MacroDroid Forum<br/>
 http://www.macrodroidforum.com/index.php?threads/installing-helper-on-android-14-old-thread.5606/
+
