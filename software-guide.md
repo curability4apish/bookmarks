@@ -14,6 +14,12 @@ https://www.youtube.com/watch?v=Dk1RSryy5Ls
 Configure and Install Office 2019/2021/O365 Apps with ODT | Step-by-Step Guide<br/>
 https://www.youtube.com/watch?v=ulnaN6fBtM8
 
+system administration - How can I delete a service in Windows? - Stack Overflow<br/>
+https://stackoverflow.com/questions/76074/how-can-i-delete-a-service-in-windows
+
+Safety of disabling services in Windows 10 and 11<br/>
+https://gist.github.com/Aldaviva/0eb62993639da319dc456cc01efa3fe5
+
 ---
 ## Android
 Installing helper on Android 14+ (old thread) | MacroDroid Forum<br/>
