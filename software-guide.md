@@ -20,12 +20,6 @@ https://stackoverflow.com/questions/76074/how-can-i-delete-a-service-in-windows
 Safety of disabling services in Windows 10 and 11<br/>
 https://gist.github.com/Aldaviva/0eb62993639da319dc456cc01efa3fe5
 
-Error 0x422 on running powercfg /batteryreport from Administrator - Microsoft Community<br/>
-https://answers.microsoft.com/en-us/windows/forum/all/error-0x422-on-running-powercfg-batteryreport-from/34c6e7bb-6bdf-4208-8de4-08331e53967d
-
-Can't use Windows "Night Light" feature. - Microsoft Community<br/>
-https://answers.microsoft.com/en-us/windows/forum/all/cant-use-windows-night-light-feature/a7372273-ef97-490e-a65e-5a73d714348c
-
 ---
 ## Android
 Installing helper on Android 14+ (old thread) | MacroDroid Forum<br/>
