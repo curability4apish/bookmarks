@@ -15,6 +15,10 @@ https://x.com/youli_meimei/status/1937001899137675510
 https://x.com/meirisheying/status/1938962299823538240
 
 ### dead
+https://x.com/LIZBETSA/status/1936092943993258328
+
+https://x.com/xingyinriqi/status/1939509088800669796
+
 https://x.com/162Kareem/status/1936912847407317072
 
 https://x.com/LIZBETSA/status/1936092943993258328
